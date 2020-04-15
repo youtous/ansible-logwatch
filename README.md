@@ -5,7 +5,9 @@ Ansible role which installs and configures logwatch.
 Forked from ANXS.logwatch in order to maintain the role updated.
 
 #### Requirements & Dependencies
+
 - Tested on Ansible 2.9.6 or higher.
+- No dependencies
 
 
 #### Variables

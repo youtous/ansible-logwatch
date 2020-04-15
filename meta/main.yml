@@ -1,6 +1,7 @@
 # file: logwatch/meta/main.yml
 
 galaxy_info:
+  role_name: logwatch
   author: youtous
   company:
   description: Install logwatch and its dependencies

@@ -1,4 +1,4 @@
-## youtous/ansible-logwatch [![Build Status](https://travis-ci.org/youtous/logwatch.png)](https://travis-ci.org/youtous/logwatch)
+## youtous/ansible-logwatch [![Build Status](https://travis-ci.org/youtous/ansible-logwatch.png)](https://travis-ci.org/youtous/ansible-logwatch)
 
 Ansible role which installs and configures logwatch.
 

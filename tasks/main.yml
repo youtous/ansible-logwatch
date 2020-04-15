@@ -2,10 +2,9 @@
 
 - name: Logwatch | Make sure logwatch and its dependencies are installed
   apt:
-    pkg: "{{item}}"
+    pkg:
+      - logwatch
     state: present
-  with_items:
-    - logwatch
 
 - name: Logwatch | Configure logwatch (/etc/logwatch/conf/logwatch.conf)
   template:

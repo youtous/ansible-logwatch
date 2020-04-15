@@ -1,10 +1,11 @@
-## ANXS - logwatch [![Build Status](https://travis-ci.org/ANXS/logwatch.png)](https://travis-ci.org/ANXS/logwatch)
+## youtous/ansible-logwatch [![Build Status](https://travis-ci.org/youtous/logwatch.png)](https://travis-ci.org/youtous/logwatch)
 
 Ansible role which installs and configures logwatch.
 
+Forked from ANXS.logwatch in order to maintain the role updated.
 
 #### Requirements & Dependencies
-- Tested on Ansible 1.4 or higher.
+- Tested on Ansible 2.9.6 or higher.
 
 
 #### Variables
@@ -32,4 +33,4 @@ Licensed under the MIT License. See the LICENSE file for details.
 
 #### Feedback, bug-reports, requests, ...
 
-Are [welcome](https://github.com/ANXS/logwatch/issues)!
+Are [welcome](https://github.com/youtous/ansible-logwatch/issues)!
